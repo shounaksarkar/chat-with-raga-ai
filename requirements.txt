@@ -1,6 +1,6 @@
 streamlit
 qdrant-client
 langchain-cohere
-langchain-community-vectorstores
+langchain-community
 langchain-groq
 langchain-core
