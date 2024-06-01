@@ -1,0 +1,6 @@
+streamlit
+qdrant-client
+langchain-cohere
+langchain-community-vectorstores
+langchain-groq
+langchain-core
